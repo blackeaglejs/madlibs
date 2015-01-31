@@ -1,2 +1,2 @@
 # madlibs
-This is my madlimbs repo! 
+This is my madlibs repo! 
